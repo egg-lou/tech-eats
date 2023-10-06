@@ -1,7 +1,7 @@
 {
   "name": "tech-eats",
   "version": "0.0.1",
-  "description": "share your favorite food spots in PUP or recipe while also practicing git/github",
+  "description": "Share your favorite food spots in PUP or recipe while also practicing git/github",
   "main": "index.js",
   "authors": {
     "name": "egg-lou",

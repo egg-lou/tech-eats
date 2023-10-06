@@ -39,7 +39,7 @@ npm install
 
 5. Run the development server
 ```bash
-npm dev
+npm run docs:dev
 ```
 
 ## How to add your favorite food spot or recipe

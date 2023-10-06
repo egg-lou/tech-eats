@@ -4,5 +4,5 @@ heroImage: https://raw.githubusercontent.com/egg-lou/egg-lou-image-resources/mai
 tagline: Food spots and recipes to eat.
 actionText: View Foods →
 actionLink: /foods/
-footer: Made by egg-lou with ❤️
+footer: Made by egg-lou with 🥚
 ---

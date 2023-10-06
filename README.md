@@ -19,23 +19,25 @@ If you are new to Git and Github:
 ## So how can you contribute?
 Follow these steps:
 
-1. Clone the Repository
+1. Fork the repository
+
+2. Clone the Repository
 
 ```bash
 git clone <The link from ur forked github repo>
 ```
 
-2. Go inside the folder that was cloned from your github account
+3. Go inside the folder that was cloned from your github account
 ```bash
 cd <folder-name>
 ```
 
-3. Download Dependencies
+4. Download Dependencies
 ```bash
 npm install
 ```
 
-4. Run the development server
+5. Run the development server
 ```bash
 npm dev
 ```

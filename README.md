@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to TECH EATS! where you can add your favorite food spots inside or near the Polytechnic University of the Philippines. Also, if you are great at cooking you may also share your recipes here.
+Welcome to TECH EATS! Discover and share your favorite dining destinations within or around the Polytechnic University of the Philippines. If you're a culinary enthusiast, feel free to showcase your delicious recipes here as well.
 
 ## This is to practice your Git and Github skills!
 Although we are trying to make everyone know your favorite food spot or recipe, the main goal of this website and repository is to have you practice open-source contribution with Git and Github. By creating a simple post about your food spot or recipe you will experience what it is like to contribute in Github.

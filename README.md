@@ -89,7 +89,7 @@ git push -u origin main
 
 10. Once approved, you'll see your favorite food spot or recipe in the website!
 
-If you can't follow through on to create a pull request, you may follow this video as a guide https://youtu.be/rgbCcBNZcdQ?si=9ZoxdZv854o84xRp
+If you can't follow through on how to create a pull request, you may follow this video as a guide https://youtu.be/rgbCcBNZcdQ?si=9ZoxdZv854o84xRp
 
 
 ## Thank you very much!

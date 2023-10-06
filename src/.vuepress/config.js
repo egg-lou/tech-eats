@@ -1,7 +1,7 @@
 const { description } = require("../../package");
 
 module.exports = {
-  base: "/",
+  base: "/tech-eats",
   title: "Tech Eats",
   description: description,
 

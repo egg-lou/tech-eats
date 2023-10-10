@@ -57,6 +57,7 @@ module.exports = {
 						{
 							title: 'Desserts',
 							children:[
+								'Cinnamon-Roll',
 							]
 						},
 						{

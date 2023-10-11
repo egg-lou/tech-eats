@@ -10,7 +10,9 @@ title: ["Name of Food Spot"]
 Briefly describe the dish or recipe.
 
 (Add Image Here) remove if will not be used
-![Name of Image](../assets/images/nameofimage)
+<p align="center">
+  <img src="../assets/images/nameofimage">
+</p>
 
 ## Where
 

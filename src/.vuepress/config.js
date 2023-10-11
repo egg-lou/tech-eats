@@ -45,7 +45,7 @@ module.exports = {
 						{
 							title: 'Lunch',
 							children:[
-								'master-buffalo',
+								'Master-Buffalo',
 							]
 						},
 

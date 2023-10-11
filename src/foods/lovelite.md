@@ -9,7 +9,6 @@ title: ["LOVELITE"]
 
 Are you looking for a refreshment in the middle of a hot day? Then this mango graham place is for you!
 
-(Add Image Here) remove if will not be used
 <p align="center">
   <img src="../assets/images/lovelite.jpg">
 </p>

@@ -9,7 +9,9 @@ title: ["Master Buffalo"]
 
 Do you love Korean fried chicken? why not check out the best one near PUP?
 
-![Master Buffalo](../assets/images/master-bufallo.jpg)
+<p align="center">
+  <img src="../assets/images/master-bufallo.jpg" />
+</p>
 
 ## Where
 

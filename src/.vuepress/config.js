@@ -33,7 +33,6 @@ module.exports = {
 		sidebar: {
 			'/foods/': [
 				{
-					
 					title: 'Foods',
 					collapsable: false,
 					children: [
@@ -45,7 +44,7 @@ module.exports = {
 						{
 							title: 'Lunch',
 							children:[
-								'Master-Buffalo',
+								'master-buffalo',
 							]
 						},
 
@@ -57,7 +56,7 @@ module.exports = {
 						{
 							title: 'Desserts',
 							children:[
-								'Cinnamon-Roll',
+								'cinnamon-roll',
 							]
 						},
 						{

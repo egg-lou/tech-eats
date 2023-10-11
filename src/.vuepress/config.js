@@ -44,7 +44,7 @@ module.exports = {
 						{
 							title: 'Lunch',
 							children:[
-								'master-buffalo',
+								'Master-Buffalo',
 							]
 						},
 
@@ -56,7 +56,7 @@ module.exports = {
 						{
 							title: 'Desserts',
 							children:[
-								'cinnamon-roll',
+								'Cinnamon-Roll',
 							]
 						},
 						{

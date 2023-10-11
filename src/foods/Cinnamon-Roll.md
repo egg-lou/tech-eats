@@ -10,7 +10,7 @@ title: ["Cinnamon Roll"]
 I tested out three recipes, and I have to say, this one makes the absolute best cinnamon rolls I've ever baked!
 
 <p align="center">
-  <img src="../assets/images/cinnamonroll.jpeg">
+  <img align="center" src="../assets/images/cinnamonroll.jpeg">
 </p>
 
 ## Ingredients

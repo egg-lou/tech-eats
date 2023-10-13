@@ -11,7 +11,7 @@ Briefly describe the dish or recipe.
 
 (Add Image Here) remove if will not be used
 <p align="center">
-  <img src="../assets/images/nameofimage">
+  <img src="../assets/images/nameofimage.fileExtension">
 </p>
 
 ## Ingredients

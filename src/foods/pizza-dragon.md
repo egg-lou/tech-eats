@@ -10,7 +10,7 @@ title: ["Pizza Dragon"]
 Are you a fan of pizza? or have fast food cravings? and you are a PUP student? This is the way to go!!
 
 <p align="center">
-  <img src="../assets/images/pizza-dragon">
+  <img src="../assets/images/pizza-dragon.jpg">
 </p>
 
 ## Where

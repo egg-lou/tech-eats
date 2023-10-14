@@ -9,7 +9,8 @@ module.exports = {
     ["meta", { name: "theme-color", content: "#3eaf7c" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta",{ name: "apple-mobile-web-app-status-bar-style", content: "black" }],
-	["link", {rel: "icon", type: "image/png", href: "https://raw.githubusercontent.com/egg-lou/egg-lou-image-resources/main/dorm-kitchen-logo.png"}]
+	["link", {rel: "icon", type: "image/png", href: "https://raw.githubusercontent.com/egg-lou/egg-lou-image-resources/main/dorm-kitchen-logo.png"}],
+	["meta", {name: "google-site-verification", content: "wh10aIOWusJy6nUJaYcnzTLokZKu0EPefpD91f6n5TM"}]
   ],
 	themeConfig: {
 		logo: 'https://raw.githubusercontent.com/egg-lou/egg-lou-image-resources/main/dorm-kitchen-logo.png',

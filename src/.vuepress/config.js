@@ -52,6 +52,7 @@ module.exports = {
 						{
 							title: 'Dinner',
 							children:[
+							'Garlic-buttered-shrimp'
 							]
 						},
 						{
